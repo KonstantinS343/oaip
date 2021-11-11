@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\oaip\laba7\laba7\Source.cpp(10,53): warning C4101: h: неиспользованная локальная переменная
+  laba7.vcxproj -> C:\oaip\laba7\Debug\laba7.exe
