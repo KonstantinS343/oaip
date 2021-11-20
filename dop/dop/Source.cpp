@@ -58,8 +58,17 @@ vector<string> convert(vector<string>  str) {
 		int lenobr = stroka[obrazec].size();
 		for (int i = 0; i < index.size(); i++) {
 			int lenth = stroka[index[i]].size();
-
-			stroka[index[i]][lenth - 1] = stroka[obrazec][lenobr - 1];
+			if (stroka[index[i]][lenth - 1]==toupper(stroka[index[i]][lenth - 1])) {
+				stroka[index[i]][lenth - 1] = toupper(stroka[obrazec][lenobr - 1]);
+			}
+			else {
+				if (stroka[obrazec][lenobr - 1]==toupper(stroka[obrazec][lenobr - 1]) && stroka[index[i]][lenth - 1]==tolower(stroka[index[i]][lenth - 1])) {
+					stroka[index[i]][lenth - 1] =tolower( stroka[obrazec][lenobr - 1]);
+				}
+				else {
+					stroka[index[i]][lenth - 1] = stroka[obrazec][lenobr - 1];
+				}
+			}
 		}
 		for (int i = 0; i < stroka.size(); i++) {
 			cout << stroka[i];
