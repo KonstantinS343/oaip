@@ -1,10 +1,10 @@
 ﻿  Source.cpp
-C:\oaip\dop\dop\Source.cpp(8,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\oaip\dop\dop\Source.cpp(9,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\oaip\dop\dop\Source.cpp(41,22): warning C4018: <: несоответствие типов со знаком и без знака
-C:\oaip\dop\dop\Source.cpp(43,36): warning C4018: <: несоответствие типов со знаком и без знака
-C:\oaip\dop\dop\Source.cpp(59,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\oaip\dop\dop\Source.cpp(64,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\oaip\dop\dop\Source.cpp(22,7): warning C4101: lenth: неиспользованная локальная переменная
-C:\oaip\dop\dop\Source.cpp(18,17): warning C4101: sizes: неиспользованная локальная переменная
-  dop.vcxproj -> C:\oaip\dop\Debug\dop.exe
+C:\Users\mihai\OneDrive\Рабочий стол\git\dop\dop\Source.cpp(8,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mihai\OneDrive\Рабочий стол\git\dop\dop\Source.cpp(9,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mihai\OneDrive\Рабочий стол\git\dop\dop\Source.cpp(41,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mihai\OneDrive\Рабочий стол\git\dop\dop\Source.cpp(43,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mihai\OneDrive\Рабочий стол\git\dop\dop\Source.cpp(59,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mihai\OneDrive\Рабочий стол\git\dop\dop\Source.cpp(73,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mihai\OneDrive\Рабочий стол\git\dop\dop\Source.cpp(22,7): warning C4101: lenth: неиспользованная локальная переменная
+C:\Users\mihai\OneDrive\Рабочий стол\git\dop\dop\Source.cpp(18,17): warning C4101: sizes: неиспользованная локальная переменная
+  dop.vcxproj -> C:\Users\mihai\OneDrive\Рабочий стол\git\dop\Debug\dop.exe
