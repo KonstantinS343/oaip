@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\oaip\animation\animation\Source.cpp(28,21): warning C4244: инициализация: преобразование "sf::Int64" в "double", возможна потеря данных
+C:\oaip\animation\animation\Source.cpp(51,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\oaip\animation\animation\Source.cpp(62,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\oaip\animation\animation\Source.cpp(73,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\oaip\animation\animation\Source.cpp(84,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  animation.vcxproj -> C:\oaip\animation\x64\Debug\animation.exe

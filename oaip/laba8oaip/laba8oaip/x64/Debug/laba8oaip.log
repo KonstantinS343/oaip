@@ -1,0 +1,4 @@
+﻿  laba8oaip.cpp
+C:\oaip\laba8oaip\laba8oaip\laba8oaip.cpp(375,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\oaip\laba8oaip\laba8oaip\laba8oaip.cpp(381,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  laba8oaip.vcxproj -> C:\oaip\laba8oaip\x64\Debug\laba8oaip.exe

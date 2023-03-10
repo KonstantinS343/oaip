@@ -1,0 +1,3 @@
+﻿  delete.cpp
+C:\oaip\delete\delete\delete.cpp(65,33): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  delete.vcxproj -> C:\oaip\delete\x64\Debug\delete.exe

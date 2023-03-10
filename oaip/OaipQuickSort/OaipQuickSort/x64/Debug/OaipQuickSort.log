@@ -1,0 +1,4 @@
+﻿  OaipQuickSort.cpp
+C:\oaip\OaipQuickSort\OaipQuickSort\OaipQuickSort.cpp(184,10): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\oaip\OaipQuickSort\OaipQuickSort\OaipQuickSort.cpp(428,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  OaipQuickSort.vcxproj -> C:\oaip\OaipQuickSort\x64\Debug\OaipQuickSort.exe
